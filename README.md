@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Production server
 
-Go to `https://polite-coast-0c71dde0f.azurestaticapps.net` to see this App working in Azure Cloud with CI/CD.
+Go to [https://polite-coast-0c71dde0f.azurestaticapps.net](https://polite-coast-0c71dde0f.azurestaticapps.net) to see this App working in Azure Cloud with CI/CD.
 
 ## Development server
 
